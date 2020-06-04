@@ -1,5 +1,4 @@
 # AcademiaDeCodigo
-Projects made at Academia de Código Bootcamp
 
 This is a little repo containing some projects done ate Academia de Código. 
 
@@ -11,3 +10,6 @@ This is a very simple chat app made with Java, using TCP protocol. It's a low le
 
 Map Editor:
 It's a very simple paint-like app, where we have a fixed-size grid and we use a keyboard cursor to paint and erase cells.
+
+ResistLive:
+This was our final project, made in the 48hr remote hackathon. It's a paid online show streaming platoform. The most challenging feature was the streaming itself, that we unfortunatelly could not finish. 
